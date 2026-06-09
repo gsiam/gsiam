@@ -15,11 +15,6 @@ summarization faithfulness and prompt injection robustness, with
 calibrated LLM-as-judge scoring and an adaptive baseline where the
 check only fails when the injection changes the output.
 
-- **[mot-playwright-test-suite](https://github.com/gsiam/mot-playwright-test-suite)**
-Web automation across UI, API, and visual lanes, with a risk-based
-test strategy and a deterministic CI lane separated from live-auth
-checks.
-
 - **[weathershopper-playwright-test-suite](https://github.com/gsiam/weathershopper-playwright-test-suite)**
 E2E coverage of a weather-driven shopping flow. Notable for dynamic 
 product selection over hardcoded names, and handling the site's 
